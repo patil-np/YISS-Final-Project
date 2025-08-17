@@ -1,0 +1,1 @@
+In this project, I built a simple ML model to predict the Certificate of Entitlement (COE) prices for vehicle ownership in Singapore. For more information, please refer to the README.pdf document.
